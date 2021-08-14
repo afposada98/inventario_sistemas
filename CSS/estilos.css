@@ -1,0 +1,46 @@
+
+        .titulos {
+            text-align: center;
+            background-color: steelblue;
+            color: white;
+            border-radius: 10px 10px 0px 0px;
+            padding: .5em;
+            margin-top: 30px;
+        }
+
+        .reedireccion {
+            text-align: right;
+            float: right;
+            background-color: #76B8FF;
+            padding: 2px 12px;
+            border-radius: 5px;
+        }   
+
+        .salida {
+            color: white;
+            text-decoration: none;
+        }        
+
+        .descripcion {
+            font-size: 12px;
+        }   
+        
+        .form-group {
+            margin-top: -0.5rem;
+        }
+
+        .informacion {
+             padding:15px;
+        }
+
+        .edicion {
+            border-width:5px;
+            border-color:steelblue; 
+            border-radius:0px 0px 15px 15px; 
+            background-color:whitesmoke;
+        }
+
+        .tipo {
+            padding:7px;
+        }
+
